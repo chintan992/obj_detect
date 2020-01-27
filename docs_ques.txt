@@ -1,5 +1,0 @@
-Yes, I am using pre-built code by one of the contibuitor at pyimagesearch.
-Yes, RPi recognize the 22 objects i.e. pre-trained to the model.
-We can obtain the model from the repo located in gihub by its contibutor so we doesn't need to train again the model, by using the pre trained model we can use the features of it by just changing the some of its arguments passed.
-I had arranged the classical method of interfacing the RPi, i.e. by setting up VNC server in RPi and operating it by using VNC client (i.e. crosss platform) in my Android Phone.
-The RPi can only recognize the objects which are been trained to the model. The objects which are not taught to the RPi are neglected by the RPi.
